@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="com.wipro.utilities.ExtentReportListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.wipro.testcases.TestCase4">
+        <methods>
+          <include name="logout4"/>
+          <include name="setUp"/>
+          <include name="windUp"/>
+          <include name="Login4"/>
+          <include name="mymenu"/>
+        </methods>
+      </class> <!-- com.wipro.testcases.TestCase4 -->
+      <class name="com.wipro.testcases.TestCase3">
+        <methods>
+          <include name="myselect"/>
+          <include name="setUp"/>
+          <include name="windUp"/>
+          <include name="Login3"/>
+          <include name="mymenu"/>
+        </methods>
+      </class> <!-- com.wipro.testcases.TestCase3 -->
+      <class name="com.wipro.testcases.TestCase1">
+        <methods>
+          <include name="logout1"/>
+          <include name="Login1"/>
+          <include name="setUp"/>
+          <include name="windUp"/>
+          <include name="Register1"/>
+        </methods>
+      </class> <!-- com.wipro.testcases.TestCase1 -->
+      <class name="com.wipro.testcases.TestCase2">
+        <methods>
+          <include name="Myaccfunctionality"/>
+          <include name="Login2"/>
+          <include name="setUp"/>
+          <include name="addressfuctionality"/>
+          <include name="windUp"/>
+        </methods>
+      </class> <!-- com.wipro.testcases.TestCase2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

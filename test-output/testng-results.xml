@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="18" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-04T20:24:57 IST" name="Suite" finished-at="2023-06-04T20:25:37 IST" duration-ms="39459">
+    <groups>
+    </groups>
+    <test started-at="2023-06-04T20:24:57 IST" name="Test" finished-at="2023-06-04T20:25:37 IST" duration-ms="39459">
+      <class name="com.wipro.testcases.TestCase4">
+        <test-method signature="Login4(java.lang.String,java.lang.String)[pri:0, instance:com.wipro.testcases.TestCase4@503f91c3]" started-at="2023-06-04T20:25:26 IST" name="Login4" data-provider="testdata1" finished-at="2023-06-04T20:25:29 IST" duration-ms="2660" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anilhiregowda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Anilhiregowda@26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login4 -->
+        <test-method signature="mymenu()[pri:1, instance:com.wipro.testcases.TestCase4@503f91c3]" started-at="2023-06-04T20:25:29 IST" name="mymenu" finished-at="2023-06-04T20:25:35 IST" duration-ms="6851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mymenu -->
+        <test-method signature="logout4()[pri:3, instance:com.wipro.testcases.TestCase4@503f91c3]" started-at="2023-06-04T20:25:35 IST" name="logout4" finished-at="2023-06-04T20:25:37 IST" duration-ms="1311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout4 -->
+      </class> <!-- com.wipro.testcases.TestCase4 -->
+      <class name="com.wipro.testcases.TestCase3">
+        <test-method signature="Login3(java.lang.String,java.lang.String)[pri:0, instance:com.wipro.testcases.TestCase3@15d49048]" started-at="2023-06-04T20:25:15 IST" name="Login3" data-provider="testdata1" finished-at="2023-06-04T20:25:18 IST" duration-ms="2504" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anilhiregowda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Anilhiregowda@26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login3 -->
+        <test-method signature="mymenu()[pri:1, instance:com.wipro.testcases.TestCase3@15d49048]" started-at="2023-06-04T20:25:18 IST" name="mymenu" finished-at="2023-06-04T20:25:19 IST" duration-ms="1795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mymenu -->
+        <test-method signature="myselect()[pri:2, instance:com.wipro.testcases.TestCase3@15d49048]" started-at="2023-06-04T20:25:19 IST" name="myselect" finished-at="2023-06-04T20:25:26 IST" duration-ms="6530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myselect -->
+      </class> <!-- com.wipro.testcases.TestCase3 -->
+      <class name="com.wipro.testcases.TestCase2">
+        <test-method signature="Login2(java.lang.String,java.lang.String)[pri:0, instance:com.wipro.testcases.TestCase2@4470fbd6]" started-at="2023-06-04T20:25:08 IST" name="Login2" data-provider="testdata1" finished-at="2023-06-04T20:25:10 IST" duration-ms="2579" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anilhiregowda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Anilhiregowda@26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login2 -->
+        <test-method signature="Myaccfunctionality()[pri:1, instance:com.wipro.testcases.TestCase2@4470fbd6]" started-at="2023-06-04T20:25:10 IST" name="Myaccfunctionality" finished-at="2023-06-04T20:25:11 IST" duration-ms="476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Myaccfunctionality -->
+        <test-method signature="addressfuctionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.wipro.testcases.TestCase2@4470fbd6]" started-at="2023-06-04T20:25:11 IST" name="addressfuctionality" data-provider="testdata2" finished-at="2023-06-04T20:25:15 IST" duration-ms="4360" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Arun@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[india]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Ganesh Nagar]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[585102]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9731578580]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addressfuctionality -->
+      </class> <!-- com.wipro.testcases.TestCase2 -->
+      <class name="com.wipro.testcases.TestCase1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wipro.testcases.TestCase1@6d5620ce]" started-at="2023-06-04T20:23:56 IST" name="setUp" finished-at="2023-06-04T20:24:57 IST" duration-ms="61730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Register1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.wipro.testcases.TestCase1@6d5620ce]" started-at="2023-06-04T20:24:58 IST" name="Register1" data-provider="testdata1" finished-at="2023-06-04T20:25:03 IST" duration-ms="5491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anil]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hiregowda]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Anilhiregowda@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Anilhiregowda@26]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Anilhiregowda@26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register1 -->
+        <test-method signature="Login1(java.lang.String,java.lang.String)[pri:1, instance:com.wipro.testcases.TestCase1@6d5620ce]" started-at="2023-06-04T20:25:03 IST" name="Login1" data-provider="testdata2" finished-at="2023-06-04T20:25:07 IST" duration-ms="3253" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anilhiregowda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Anilhiregowda@26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login1 -->
+        <test-method signature="logout1()[pri:2, instance:com.wipro.testcases.TestCase1@6d5620ce]" started-at="2023-06-04T20:25:07 IST" name="logout1" finished-at="2023-06-04T20:25:07 IST" duration-ms="795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout1 -->
+        <test-method is-config="true" signature="windUp()[pri:0, instance:com.wipro.testcases.TestCase1@6d5620ce]" started-at="2023-06-04T20:25:37 IST" name="windUp" finished-at="2023-06-04T20:25:37 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windUp -->
+      </class> <!-- com.wipro.testcases.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

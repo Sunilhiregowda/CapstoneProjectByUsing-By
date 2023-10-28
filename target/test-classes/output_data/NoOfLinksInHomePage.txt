@@ -1,0 +1,8 @@
+Total menus are : 7
+1. menu is Computers
+2. menu is Electronics
+3. menu is Apparel
+4. menu is Digital downloads
+5. menu is Books
+6. menu is Jewelry
+7. menu is Gift Cards
